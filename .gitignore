@@ -1,2 +1,10 @@
-**/venv
-**/.vscode
+# Root directories
+venv
+dist
+build
+pypomodoro.egg-info
+
+# File types
+
+# Glob patterns
+**/__pycache__
