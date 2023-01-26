@@ -1,0 +1,1 @@
+Will become a simple CLI pomodoro application
