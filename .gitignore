@@ -2,7 +2,7 @@
 venv
 dist
 build
-pypomodoro.egg-info
+climodoro.egg-info
 
 # File types
 
