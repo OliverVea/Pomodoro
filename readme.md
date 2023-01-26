@@ -7,6 +7,6 @@ See [tasks.json](./.vscode/tasks.json) for more information.
 
 ## Todo
 
-[x] Get MVP working
-[ ] Add persistent configuration
-[ ] Add audio
+- [x] Get MVP working
+- [ ] Add persistent configuration
+- [ ] Add audio
