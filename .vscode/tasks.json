@@ -4,7 +4,7 @@
         {
             "label": "Add to pip",
             "type": "shell",
-            "command": "python setup.py sdist bdist_wheel; python -m pip install dist/pypomodoro-0.1-py3-none-any.whl --force-reinstall"
+            "command": "python setup.py sdist bdist_wheel; python -m pip install dist/climodoro-0.1-py3-none-any.whl --force-reinstall"
         }
     ]
 }

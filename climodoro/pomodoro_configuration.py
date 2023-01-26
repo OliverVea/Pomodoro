@@ -7,7 +7,6 @@ class PomodoroConfiguration:
     duration: int
     description: str
 
-
 WORK = PomodoroConfiguration(
     int(Constants.WORK.total_seconds()),
     "Work")
