@@ -5,7 +5,7 @@ from climodoro.pomodoro import Pomodoro
 
 app = typer.Typer()
 
-@app.command()
+@app.command('start')
 def start():
     order = get_configuration_order()
     pomodoro = Pomodoro()
@@ -19,8 +19,5 @@ def start():
 
         i = (i + 1) % len(order)
 
-def main():
-    app()
-
 if __name__ == '__main__':
-    main()
+    app()

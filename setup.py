@@ -9,7 +9,7 @@ setup(
     ],
     entry_points={
         'console_scripts': [
-            'climodoro = climodoro.__main__:main',
+            'climodoro = climodoro.__main__:app',
         ],
     },
 )
